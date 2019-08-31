@@ -1,0 +1,30 @@
+{
+  "name": "pipam-chocolatey",
+  "version": "1.0.0",
+  "description": "A Chocolatey plugin for Pipam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests, yet..\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipam/pipam-chocolatey.git"
+  },
+  "keywords": [
+    "pipam",
+    "pipam-plugin",
+    "chocolatey"
+  ],
+  "author": "facekapow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pipam/pipam-chocolatey/issues"
+  },
+  "homepage": "https://github.com/pipam/pipam-chocolatey#readme",
+  "pipam": {
+    "displayName": "Chocolatey"
+  },
+  "dependencies": {
+    "then-utils": "^1.4.0"
+  }
+}
